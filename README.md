@@ -43,7 +43,7 @@
 1. <./geth --datadir node02 --unlock "0x7b6870C454Df67a3026FbB9DE9Ce1b904Dd67EFD" --mine --port 30304 --bootnodes "enode: e142e01065b5b1494aa9aac3a64be0737eb8aeb627d0013039f3fa297ce725aa6aaa69da8514334b7e502a252f98e9e02571cde7f9a7b626c1fed44cb7de12b7@127.0.0.1:30303" --ipcdisable>
 2. "Password: " prompt may not be obvious but type <1234> after running command above
 
-# Adding Network to MyCrypto
+# Adding Custom Network to MyCrypto
 1. Change network to zworld (custom network) before attempting to login
 2. Login with Keystore file from Node 1 and enter password <1234>
 3. Under the network names: Select "Add Custom Node"
