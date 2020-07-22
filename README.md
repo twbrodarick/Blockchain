@@ -56,4 +56,8 @@
   * "URL":  <http://127.0.0.1:8545
   * Save and & Use Custom Node
                                    
-4. 
+## Sending a Transaction from Custom Network
+1. Select "Send Ether & Tokens at top of screen
+2. Enter a valid public address in the "to" field
+3. Enter number of tokens and crypto and select Send
+4. Select "Tx Status" at bottom of screen to view transactions details including transaction hash
